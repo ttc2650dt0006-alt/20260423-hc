@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background: rgba(81, 184, 235, 0.475);
+    color: white;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: aquamarine;
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 1px solid aquamarine;
+}
